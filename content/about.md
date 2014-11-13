@@ -5,3 +5,5 @@ layout: post
 ---
 
 content
+
+![glyphicons-halflings.png](/content/glyphicons-halflings.png)
