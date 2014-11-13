@@ -1,0 +1,14 @@
+prose:
+  media: "images"
+  metadata:
+    content:
+      - name: "layout"
+        field:
+          label: "Layout"
+          element: "text"
+          value: "post"
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
+          value: "My Page Title"
